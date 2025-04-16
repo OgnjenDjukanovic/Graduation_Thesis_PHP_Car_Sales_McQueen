@@ -1,2 +1,1 @@
-# CarSalesMcQueen
-Graduation_Thesis_PHP_Car_Sales_McQueen
+# Graduation_Thesis_PHP_Car_Sales_McQueen
